@@ -1,6 +1,6 @@
 # exalens_challange
 
-#code:
+# code:
 
 function apartmentHunting(blocks, reqs) {
     // Write your code here.
@@ -54,7 +54,7 @@ exports.apartmentHunting = apartmentHunting;
 
 
 
-#Explanation:
+# Explanation:
 We have to find the index of the blocks so that the distances for all requirements will be minimum.
 For this I have divided the problem into three small parts:
 1. For all the requirements, find the minimum distance from each block so that particular requirement is located.
